@@ -86,7 +86,9 @@ body{
 
 
     .container .about-me .main-p{
-        padding-left: 1rem;
+        padding: 0;
+        margin-right: 0;
+        
     }
 
 }
