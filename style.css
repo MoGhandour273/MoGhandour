@@ -84,11 +84,15 @@ body{
         padding-top: 2rem;
     }
 
+    .container .about-me p{
+        font-size: 12px;
+    }
 
     .container .about-me .main-p{
         padding: 0;
         margin-right: 0;
-        
+        font-size: 12px;
+
     }
 
 }
